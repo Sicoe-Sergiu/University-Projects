@@ -1,6 +1,6 @@
 # University-Projects
 Here are the projects and assignments done during my studying years at UBB Computer Science.
-* [📂 Semester I](SemesterI/)
+* [📂 Semester I](Semester I/)
     * [Computer Systems Architecture](Semester1/ASC/)
     * [Fundamentals of Programming](Semester1/FP/)
 * [📂 Semester II](SemesterII/)
